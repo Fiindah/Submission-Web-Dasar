@@ -1,0 +1,25 @@
+	/* untuk membuat tampilan yang responsif untuk tablet */
+@media screen and (max-width: 1000px) {
+#content{
+	width: 100%;
+}
+
+.jumbotron {
+	font-size: 30px;
+	padding: 180px 130px 180px 130px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 25px;
+}
+
+p {
+	font-size: 15px;
+}
+
+aside {
+	width: 100%;
+	padding: 0;
+}
+}
